@@ -73,3 +73,5 @@ Configuración de los primeros pasos con Git.
       ```
 
 ¡Listo! Estos son los primeros pasos que se deben hacer para principiantes.
+
+###NOTA: Despues de que ya se entienden los conceptos de manejo de git, se pueden instalar GUI o clientes, lo cual es una ayuda importante: [[https://git-scm.com/](https://git-scm.com/downloads/guis/)]([https://git-scm.com/](https://git-scm.com/downloads/guis/)https://git-scm.com/downloads/guis/).
