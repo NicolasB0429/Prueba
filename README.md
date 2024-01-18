@@ -1,6 +1,6 @@
 # Primeros Pasos con Git
 
-¡Bienvenido a tu proyecto con control de versiones utilizando Git!
+Configuración de los primeros pasos con Git.
 
 ## Configuración Inicial
 
@@ -72,4 +72,4 @@
       git pull origin master
       ```
 
-¡Listo! Ahora estás listo para comenzar a colaborar y realizar un seguimiento de las versiones de tu proyecto utilizando Git.
+¡Listo! Estos son los primeros pasos que se deben hacer para principiantes.
